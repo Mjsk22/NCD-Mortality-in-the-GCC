@@ -8,24 +8,6 @@ This project compares Non-Communicable Disease (NCD) mortality trends in GCC cou
 
 ---
 
-## 📁 Project Structure
-
-GCC_vs_Global_NCD_Analysis/
-├── data/
-│ └── ncd_mortality_gcc_reshaped.csv # Cleaned dataset used for analysis
-├── graphs/
-│ └── Capstone graphs.pbix # Power BI dashboard for visualization
-├── notebooks/
-│ └── Exploratory Data Analysis (EDA).ipynb # Jupyter Notebook with full analysis
-├── presentation/
-│ └── Mohamed Jamal Capstone.pptx # Final presentation (Lightning Talk #2)
-├── report/
-│ └── Mohamed Jamal Technical Report.docx # Full technical writeup of the project
-└── README.md # Project overview and documentation
-
-
----
-
 ## 🎯 Project Objectives
 
 - Identify and compare leading causes of NCD-related death in GCC vs global and MENA regions
