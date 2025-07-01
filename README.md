@@ -103,14 +103,3 @@ Includes:
 3. World Bank Population Data: https://data.worldbank.org/indicator/SP.POP.TOTL  
 4. UN ESCWA Regional Data: https://data.unescwa.org  
 5. ICD-10 Code Reference: https://icd.who.int/browse10/2019/en#/  
-6. Frontiers in Public Health:  
-   - *Image Source*: [NCD Types Diagram](https://www.frontiersin.org/articles/10.3389/fpubh.2020.574111/full)  
-   - *License*: CC BY 4.0
-
----
-
-## 📫 Contact
-
-For questions, suggestions, or collaborations:  
-**GitHub**: [github.com/your-username]  
-**Email**: [your-email@example.com] *(optional)*
