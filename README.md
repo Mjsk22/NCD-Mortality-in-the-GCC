@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/ncd_types_chart.png" alt="Non-Communicable Diseases Diagram" width="700"/>
-</p>
-
 # 🩺 GCC vs Global NCD Analysis — Capstone Project
 
 **Author**: Mohamed Jamal  
