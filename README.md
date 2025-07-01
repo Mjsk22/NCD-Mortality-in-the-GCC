@@ -10,7 +10,7 @@ This project compares Non-Communicable Disease (NCD) mortality trends in GCC cou
 
 ## 📁 Project Structure
 
-\`\`\`
+
 GCC_vs_Global_NCD_Analysis/
 │
 ├── data/
@@ -29,7 +29,7 @@ GCC_vs_Global_NCD_Analysis/
 │   └── Mohamed Jamal Technical Report.docx    # Full technical writeup of the project
 │
 └── README.md                                  # Project overview and documentation
-\`\`\`
+
 
 ---
 
